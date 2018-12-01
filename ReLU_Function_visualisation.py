@@ -1,3 +1,9 @@
+
+ # Author: Suri Bhasker Sri Harsha
+ #       : MS- Research Scholar
+ #       : Computer Science Department
+ #	 : IIT Tirupati
+
 # This program plots the value for ReLU function in the range of -20 to +20
 
 import math
