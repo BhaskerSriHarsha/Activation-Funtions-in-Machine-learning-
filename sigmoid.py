@@ -1,9 +1,8 @@
- -------------------------------------
+
  # Author: Suri Bhasker Sri Harsha
  #       : MS- Research Scholar
  #       : Computer Science Department
  #	 : IIT Tirupati
- -------------------------------------
 
 # This function plots the values for sigmoid function in the range of -20 to +20
 
